@@ -1,16 +1,14 @@
-## Hi there 👋
+## Olá, meu nome é Flávio
+Profissional em transição de carreira.
 
-<!--
-**flavinRJ/flavinRJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Atualmente focado no aprendizado de 👋
+<div style = "display: inline">
+  <img width="30" height="30" alt="original" src="https://github.com/user-attachments/assets/7fd10c20-391a-4ac6-ae69-ff0472ea8d4c" />
+  <img width="30" height="30" alt="original" src="https://github.com/user-attachments/assets/b46b4e6b-76a8-4ad7-80f7-a564a42450cc" />
+</div>
+Para ciência de dados.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ***Você também me encontra em:
+- <a href = "https://www.linkedin.com/in/flavio-brandao-61a8831b7/">
+- <img width="80" height="30" alt="original" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+- </a>
