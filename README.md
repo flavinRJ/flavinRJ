@@ -3,8 +3,8 @@ Profissional em transição de carreira.
 
 Atualmente estou focado em melhorar minhas habilidades em:
 <div style = "display: inline">
-  <img width="30" height="30" alt="original" src="https://github.com/user-attachments/assets/7fd10c20-391a-4ac6-ae69-ff0472ea8d4c" />
-  <img width="30" height="30" alt="original" src="https://github.com/user-attachments/assets/b46b4e6b-76a8-4ad7-80f7-a564a42450cc" />
+  <img width="50" height="50" alt="original" src="https://github.com/user-attachments/assets/7fd10c20-391a-4ac6-ae69-ff0472ea8d4c" />
+  <img width="50" height="50" alt="original" src="https://github.com/user-attachments/assets/b46b4e6b-76a8-4ad7-80f7-a564a42450cc" />
 </div>
 Em busca da minha primeira oportunidade, na carreira de Ciência de Dados.
 
