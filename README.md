@@ -1,22 +1,24 @@
-## Olá, meu nome é Flávio  👋
-Profissional em transição de carreira.
+# Olá, sou o Flávio Brandão 👋
 
-Atualmente estou focado em melhorar minhas habilidades em:
-<div style = "display: inline">
-  <img width="50" height="50" alt="original" src="https://github.com/user-attachments/assets/7fd10c20-391a-4ac6-ae69-ff0472ea8d4c" />
-  <img width="50" height="50" alt="original" src="https://github.com/user-attachments/assets/b46b4e6b-76a8-4ad7-80f7-a564a42450cc" />
-</div>
-Em busca da minha primeira oportunidade, na carreira de Ciência de Dados.
+🎯 **Profissional em transição de carreira para a área de Dados**, unindo **20+ anos de experiência na construção civil** com habilidades analíticas modernas para transformar dados complexos em decisões de negócio estratégicas.
 
-### Você também me encontra em:
+---
 
-- <a href = "https://www.linkedin.com/in/flavio-brandao-61a8831b7/"><img width="80" height="30" alt="original" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+## 🛠️ Stack Tecnológica
 
-#### Assim como meus certificados e projetos que desenvolvi, nos cursos pelos quais passei.
+* **Linguagens & Consultas:** Python, SQL (PostgreSQL / MySQL)
+* **Manipulação & Análise de Dados:** Pandas, NumPy, Scikit-Learn
+* **Visualização & BI:** Power BI, Tableau, Streamlit
+* **Controle de Versão & Ferramentas:** Git, GitHub, Jupyter Notebooks
 
-<div style = display: "inline">
-  <img width="90" height="50" alt="original" src="https://media.licdn.com/dms/image/v2/D4D22AQEeYfwxyrgPsw/feedshare-shrink_1280/B4DZxY5z4XJEAc-/0/1771018075904?e=1779321600&v=beta&t=Fh8VsYAAXtENCq819YnBVYvh4MhVrv2gn58NrbHvepU" />
+## 💡 Por que Dados + Construção Civil?
+Com mais de duas décadas gerenciando projetos complexos, lidando com orçamentos rigorosos, gestão de equipes e mitigação de riscos, desenvolvi uma forte **visão de negócio e foco em eficiência**. 
 
-  <img width="90" height="90" alt="original" src="https://media.licdn.com/dms/image/v2/D4D22AQG1wH2VKrU7lw/feedshare-image-high-res/B4DZSLTTReG4A0-/0/1737503881693?e=1779321600&v=beta&t=hxxFe09nRx_02xGKMBHu63f52tM8XLj9ci39o9akN1c" />
-  
-</div>
+Hoje, aplico essa maturidade corporativa na ciência de dados, análise exploratória e modelagem, garantindo que as soluções técnicas entreguem **valor real e financeiro** para as empresas.
+
+---
+
+## 📬 Conecte-se Comigo
+
+* LinkedIn:** [https://linkedin.com/in/fláviodatascience]
+
